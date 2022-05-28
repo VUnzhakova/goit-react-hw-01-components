@@ -16,7 +16,7 @@ td {
 }
 
 th {
-  background-color: #b87536;
+  background-color: #17a161;
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
@@ -28,5 +28,5 @@ tr {
 }
 
 tr:nth-child(even) {
-  background-color: #faf0e3;
+  background-color: #e3faf4;
 }
